@@ -19,7 +19,7 @@ When you click the **Render** button a document will be generated that includes 
 library(ggplot2)
 library(tidyverse)
 1 + 1
-r < - 3
+r < - 4
 ```
 
 You can add options to executable code like this
